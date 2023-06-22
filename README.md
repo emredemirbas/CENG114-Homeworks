@@ -1,5 +1,5 @@
 # CENG114-Homeworks
-AYBU CENG114 Homeworks for 2023 Spring Term
+AYBU CENG114 (Computer Programming II) Homeworks for 2023 Spring Term
 
 HW2, HW3 & 4, and HW5 were given to a team of two students.
 I implemented these tasks with my classmate, Ömer Faruk Özüyağlı.
